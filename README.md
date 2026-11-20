@@ -1,5 +1,20 @@
 # WEEK 3 – PASSWORD CRACKING LABS
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-red" alt="Skill Cybersecurity">
+  <img src="https://img.shields.io/badge/Ver-Virtualbox_v7.2.22-0078D4" alt="Virtualbox v7.2.22">
+ <img src="https://img.shields.io/badge/Kali_Linux-v2025.1-orange" alt="Kali Linux v2025.1">
+  <img src="https://img.shields.io/badge/Skill-Linux-red" alt="Skill Linux">
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-009688" alt="Network 10.0.0.0/24">
+  <img src="https://img.shields.io/badge/Penetration_Testing-red" alt="Penetration Testing">
+  <br>
+  <img src="https://img.shields.io/badge/Skill-Virtualization-red" alt="Skill Virtualization">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Host-Parrot_OS-red" alt="Host Parrot OS">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-orange" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/-Mercy_Oyanimughan-CC0000" alt="Mercy Oyanimughan">
+</p>
+
 **Networkwalks Cybersecurity Internship | Batch B082**
 
 ## Overview
